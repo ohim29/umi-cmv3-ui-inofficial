@@ -6,7 +6,7 @@ export const mintText = [
 ];
 
 //header image in the ui. replace with your own
-export const image = "https://arweave.net/vDgA5vWg99LyD6DWu0K2WTDD9av-lqE3XsNbiQOQR0E?ext=png";
+export const image = "https://arweave.net/TY9HutBdUN3NJ_4mG3IWw5EGeWacd8bREy2Y1NBioq0?ext=png";
 
 //website title
-export const headerText = "Ninja Collection minting";
+export const headerText = "Solana Frog minting";
